@@ -1,5 +1,3 @@
-// Press Shift twice to open the Search Everywhere dialog and type `show whitespaces`,
-// then press Enter. You can now see whitespace characters in your code.
 public class Main {
     public static void main(String[] args) {
 
@@ -14,7 +12,7 @@ public class Main {
         android.ligar("999999");
 
 
-       /* celular.ligar("71-988322598");
+       celular.ligar("71-988322598");
         celular.atender();
         celular.iniciarCorreioVoz();
         ipod.tocar();
@@ -22,7 +20,7 @@ public class Main {
         ipod.selecionarMusica();
         browse.exibirPagina("https://translate.google.com.br/?sl=en&tl=pt&text=grant&op=translate");
         browse.adicionarNovaAba();
-        browse.atualizarPagina();*/
+        browse.atualizarPagina();
 
     }
 }
